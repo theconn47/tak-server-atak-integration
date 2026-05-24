@@ -21,6 +21,19 @@ The architecture mirrors what defense and intelligence contractors such as Andur
 
 ---
 
+## Screenshots
+
+### Full Stack Running — Three-Process Architecture
+![Full stack running](opentakserver_full_stack_running.png)
+
+### ATAK Connected to OTS — SSL + Certificate Authentication
+![ATAK OTS SSL connection and cert auth](atak_ots_ssl_connection_cert_auth.png)
+
+### CONOR-01 Position Report — Austin, Texas
+![ATAK CONOR-01 Austin Texas position](atak_conor01_austin_texas_position.png)
+
+---
+
 ## Architecture
 
 ```
